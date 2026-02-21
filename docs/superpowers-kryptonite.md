@@ -21,7 +21,7 @@ We start to build trust among team members by being vulnerable with each other a
 1. Each person has a section in the activity board where they can brainstorm and write down their strengths or superpowers and growth areas or kryptonite. (5 min.)
 2. Each team member shares what they wrote down. (Variable depending on number of teammates).
 
-![](/assets/images/superpowers-kryptonite.png)
+_[Image: Team activity board showing superpowers and kryptonite sections]_
 
 ## Resources
 

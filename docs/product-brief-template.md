@@ -18,7 +18,7 @@ Briefs are useful for setting direction after the market research & discovery ph
 
 Teams can get overwhelmed by the feeling of not having a 'single source of truth' for the product roadmap. When using briefs along with other tools, it's helpful to communicate to the team what purpose each artifact is serving in your specific case.
 
-For instance, the roadmap may show different initiatives in priority order and change often to adapt to changing horizons, while a product brief goes into detail about one specific initiative and is reliatively stable. Jira issues (or other tools) should then track work happening on a story level that tie back to an initiative.
+For instance, the roadmap may show different initiatives in priority order and change often to adapt to changing horizons, while a product brief goes into detail about one specific initiative and is relatively stable. Jira issues (or other tools) should then track work happening on a story level that tie back to an initiative.
 
 ## Outcome
 

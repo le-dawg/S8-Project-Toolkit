@@ -8,7 +8,7 @@ nav_order: 3
 
 We will have generated a lot of solutions, but **which solutions should we prioritize?** Back to the good ol' 2x2!
 
-This time our axis will help us plot . **value against feasibility**
+This time our axis will help us plot **value against feasibility**
 
 This will help us determine which solutions we can initially experiment with, put in front of users, and then, create a product plan around.
 

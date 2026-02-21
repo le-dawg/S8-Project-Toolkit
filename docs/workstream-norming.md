@@ -6,7 +6,7 @@ nav_order: 11
 
 # Workstream norming
 
-Once the teams understands more about each others areas of depth and expertise you can then begin to think about how to break down common workstreams.
+Once the team understands more about each other's areas of depth and expertise you can then begin to think about how to break down common workstreams.
 
 This activity helps to set expectations for who will take responsibility for particular work within the practice or team. It also helps to outline specifics of those responsibilities as well as who they'll be collaborating with most often and challenges they may face.
 
