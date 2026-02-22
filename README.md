@@ -19,15 +19,28 @@ The toolkit includes methodologies and frameworks for:
 
 To build and preview the site locally:
 
-1. Install [Jekyll] and [Bundler]
+1. Install Ruby and Bundler
 2. Clone this repository
-3. Run `bundle install`
-4. Run `bundle exec jekyll serve`
-5. Open your browser to `localhost:4000`
+3. Run `bundle config set --local path 'vendor/bundle'`
+4. Run `bundle config set --local frozen false`
+5. Run `bundle install`
+6. Run `bundle exec jekyll serve`
+7. Open your browser to `http://localhost:4000`
 
 ## Publishing
 
 This site is automatically built and published to GitHub Pages using GitHub Actions whenever changes are pushed to the `main` branch.
+
+## Troubleshooting
+
+- **Permission error during gem install** (`Gem::FilePermissionError`): avoid `sudo` and use project-local gems:
+	- `bundle config set --local path 'vendor/bundle'`
+	- `bundle install`
+- **Bundler version mismatch** (lockfile says older Bundler): run with the lockfile-compatible Bundler:
+	- `bundle _2.5.9_ install`
+	- then continue with `bundle exec jekyll build`
+- **Dependency conflict mentioning `github-pages` and `jekyll`**: do not add `github-pages` gem when this repo is deployed via Actions. Keep the `Gemfile` as-is.
+- **Local build warnings from Sass deprecations**: these are currently non-blocking and do not prevent site generation.
 
 ## License
 

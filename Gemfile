@@ -5,5 +5,4 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 
 group :jekyll_plugins do
   gem "just-the-docs", "0.12.0"
-  gem "github-pages"
 end
