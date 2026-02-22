@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Service Blueprint
-nav_order: 9
+nav_order: 26
 ---
 
 # Service Blueprint

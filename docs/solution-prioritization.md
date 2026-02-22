@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solution or Experiment Prioritization
-nav_order: 3
+nav_order: 27
 ---
 
 # Solution or Experiment Prioritization

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Product brief template
-nav_order: 14
+nav_order: 23
 ---
 
 # Product brief template

@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: home
+title: Intro
+layout: default
+nav_order: 1
 ---
 
 # Solution 8 Project Toolkit

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UX Stack
-nav_order: 8
+nav_order: 40
 ---
 
 # UX Stack

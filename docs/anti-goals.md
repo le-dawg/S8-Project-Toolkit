@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anti-goals
-nav_order: 4
+nav_order: 3
 ---
 
 # Anti-goals
