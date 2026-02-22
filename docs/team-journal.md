@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Journal
-nav_order: 2
+nav_order: 34
 ---
 
 # Team Journal

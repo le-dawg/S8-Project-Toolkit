@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stinky Fish
-nav_order: 10
+nav_order: 30
 ---
 
 # Stinky Fish

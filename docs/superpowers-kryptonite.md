@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Superpowers and Kryptonite
-nav_order: 5
+nav_order: 33
 ---
 
 # Superpowers and Kryptonite

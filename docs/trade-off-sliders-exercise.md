@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trade-Off Sliders
-nav_order: 17
+nav_order: 35
 ---
 
 # Trade-Off Sliders

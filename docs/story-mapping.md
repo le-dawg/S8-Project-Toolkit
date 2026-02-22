@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Story mapping
-nav_order: 1
+nav_order: 31
 ---
 
 # Story mapping

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Highlighter tests
-nav_order: 6
+nav_order: 15
 ---
 
 # Highlighter tests

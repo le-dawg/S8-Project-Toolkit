@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Value proposition matrix
-nav_order: 15
+nav_order: 41
 ---
 
 # Value proposition matrix
